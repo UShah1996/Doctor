@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_mobile">Enter Valid mobile number</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Mediclarus Clear Medical Solution</string>
+    <string name="welcome_dr">Welcome Dr.</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="age">Age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="appointment"><![CDATA[Appointment Date & Time]]></string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="_11_00_am">11:00 AM</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="book_an_appointment">Book an Appointment</string>
+    <string name="this_is_my_first_consultation">This is my first consultation</string>
+    <string name="edit_patient">Edit Patient</string>
+    <string name="update">Update</string>
+    <string name="log_out">Log out</string>
+    <string name="export_to_db">Export to DB</string>
+    <string name="the_appointment_has_been_booked">The appointment has been booked.</string>
+
+    <array name="allergies">
+        <item>None</item>
+        <item>Paracetamol</item>
+        <item>Penicillin</item>
+        <item>NSAIDs</item>
+        <item>sulfonamides</item>
+        <item>Anticonvulsants</item>
+        <item>Any Other</item>
+    </array>
+</resources>
